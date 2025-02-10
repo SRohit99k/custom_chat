@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+app.log # If you are logging to a file, you might want to ignore it too.
+./custom_chat
+/custom_chat
+/logs
+/Scripts/
+/Lib
+/Include
